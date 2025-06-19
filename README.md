@@ -2,7 +2,7 @@
 
 🎓 Software & Data Analyst in training | 💡 Frontend Enthusiast | 📊 Data Explorer  
 🚀 Currently studying Data & Analyst Master's + DAM (Multiplatform Application Development)  
-💼 Former Software Engineer Intern @Amazon | Passionate about building, learning & sharing  
+💼 Passionate about building, learning & sharing  
 
 ---
 
