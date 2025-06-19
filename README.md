@@ -17,8 +17,33 @@
 
 ## 🧰 Tech Stack & Tools
 
-```bash
-Languages:      Python · Java · SQL · HTML · CSS · JavaScript · Bash
+`Languages:      Python · Java · SQL · HTML · CSS · JavaScript · Bash
 Data & BI:      Power BI · Excel · Pandas · NumPy
 Frontend:       Figma · Responsive Design · GitHub Pages
-Dev Tools:      Git · GitHub · VSCode · Linux · Bash · Spring MVC · IntelliJ
+Dev Tools:      Git · GitHub · VSCode · Linux · Bash · Spring MVC · IntelliJ`
+
+## 📌 Highlighted Projects
+
+### 🔗 [Power BI Dashboard – Product Sales & Trends](https://github.com/genesisvaca/PowerBI-Obtencion_Manipulacion)
+A real-world dashboard developed as part of my Master's final project.  
+🧩 **Data modeling** | **DAX formulas** | **Interactive visuals** | **Business insights**
+
+---
+
+### 🔗 [QR Code Generator – Python](https://github.com/genesisvaca/QR-Code-Generator)
+Generate custom QR codes in seconds with this clean, simple Python script.  
+💡 Used `qrcode` library | CLI interaction | File output handling
+
+---
+
+### 🔗 [Script Bash: System & Network Analyzer](https://github.com/genesisvaca/Ejercicios)
+Linux Bash script with a custom interactive menu for basic diagnostics.  
+📡 Analyzes CPU, memory, network, active ports, and saves reports
+
+---
+
+## 🌐 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/genesisvacapalma/)
+- ✉️ genesisvacapalma@gmail.com  
+- 💬 Always happy to share, collaborate and learn!
