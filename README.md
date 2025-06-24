@@ -29,6 +29,8 @@ An interactive travel blog website built with HTML, CSS, and JavaScript.
 
 📷 Image gallery carousel | 🧭 Top 5 locations | ✨ Neumorphic responsive design | 🇪🇸 Fully in Spanish
 
+---
+
 ### 🔗 [Power BI Dashboard – Product Sales & Trends](https://github.com/genesisvaca/PowerBI-Obtencion_Manipulacion)
 A real-world dashboard developed as part of my Master's final project.  
 
