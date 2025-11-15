@@ -6,9 +6,9 @@
 - 🧠 Deepening my skills in **Power BI, Java, Python, SQL, and frontend development**  
 - 🛠️ I enjoy creating **interactive dashboards**, **automated tools**, and **UI concepts**  
 - 🌍 I’ve lived in **the Netherlands** for 3 years, and thrive in multicultural teams  
-- 👩‍💻 I'm developing both **data-focused projects** and **web-based applications**  
-
-## 🧰 Tech Stack
+- 👩‍💻 I'm developing both **data-focused projects** and **web-based applications**
+  
+## 🔗 [🎈Portfolio](https://genesisvaca.dev)
 
 ### 💻 Languages
 
