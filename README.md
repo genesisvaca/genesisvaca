@@ -67,17 +67,6 @@ It’s built with React + TypeScript, styled with Tailwind, and polished with sm
 
 <img src="https://img.shields.io/badge/⚛️_React-22192F?style=for-the-badge&logo=react&logoColor=5ED3F3"/> <img src="https://img.shields.io/badge/🧩_TypeScript-2E2240?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/🎨_Tailwind_CSS-2C1C34?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/🧠_Vite-2A1937?style=for-the-badge&logo=vite&logoColor=646CFF"/> <img src="https://img.shields.io/badge/🌑_shadcn/ui-25172D?style=for-the-badge&logo=radixui&logoColor=FFB7E6"/> <img src="https://img.shields.io/badge/💾_Node.js-25301D?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
 
-## 🔗 [🌍 Travel Blog – Discovering the Algarve](https://github.com/genesisvaca/travel-blog-algarve-spanish)
-
-A lightweight travel blog inspired by the Algarve’s coastline, built with simple HTML, CSS and vanilla JavaScript.  
-The design follows a soft pastel palette, rounded layouts and small shadow touches to create a calm, friendly reading experience.
-  
-![UI Design](https://img.shields.io/badge/UI_Design-8BA7FF?style=for-the-badge&logo=figma&logoColor=ffffff)
-![HTML/CSS/JS](https://img.shields.io/badge/Frontend_HTML·CSS·JS-A6D8FF?style=for-the-badge&logo=html5&logoColor=ffffff)
-![Pastel Branding](https://img.shields.io/badge/Pastel_Gradient_Theme-F6A4D8?style=for-the-badge&logo=color&logoColor=ffffff)
-![Image Gallery](https://img.shields.io/badge/Image_Gallery-D69EDB?style=for-the-badge&logo=googlephotos&logoColor=ffffff)
-![Fully in Spanish](https://img.shields.io/badge/Spanish_Content-8BA7FF?style=for-the-badge&logo=googletranslate&logoColor=ffffff)
-
 ## 🔗 [📊 Power BI Dashboard – Product Sales & Trends](https://github.com/genesisvaca/PowerBI-Obtencion_Manipulacion)
 
 Power BI report focused on product performance, trends over time and key business metrics.  
@@ -91,19 +80,30 @@ It was built as part of my Master’s programme and covers the full flow: from d
 ![Interaction](https://img.shields.io/badge/Drilldowns_&_Slicers-1A0F2E?style=for-the-badge&logo=googletagmanager&logoColor=7DF9FF)
 
 
+## 🔗 [🎨 Neumorphic Registration Form — Java Swing](https://github.com/genesisvaca/Neomorphic-Form)
 
-## 🔗 [🎨 Neumorphic User Form – Java Swing](https://github.com/genesisvaca/Neomorphic-Form)
-
-A soft pastel **neumorphic** registration form built with pure Java Swing.  
-Includes field validation, file handling, and custom UI elements styled entirely without external libraries.
+A pastel-themed **neumorphic** form built entirely with Java Swing.  
+The project includes full input validation, TXT storage, and several custom UI components – all styled without external libraries.  
+It’s a small experiment in combining classic Swing with a soft, modern look.
 
 ![Java Swing](https://img.shields.io/badge/Java_Swing_UI-F2C6C6?style=for-the-badge&logo=coffeescript&logoColor=ffffff)
 ![Neumorphism](https://img.shields.io/badge/Neumorphic_Design-E7A9A9?style=for-the-badge&logo=stylelint&logoColor=ffffff)
 ![Input Validation](https://img.shields.io/badge/Input_Validation-F7EDEE?style=for-the-badge&logo=checkmarx&logoColor=E7A9A9)
 ![TXT Storage](https://img.shields.io/badge/Save_to_TXT_File-F2C6C6?style=for-the-badge&logo=files&logoColor=ffffff)
+![TXT to XML](https://img.shields.io/badge/TXT_→_XML_Conversion-F7EDEE?style=for-the-badge&logo=code&logoColor=E7A9A9)
 ![Custom Components](https://img.shields.io/badge/Custom_Swing_Components-E7A9A9?style=for-the-badge&logo=materialdesignicons&logoColor=ffffff)
 ![Pure Java](https://img.shields.io/badge/Pure_Java_(No_Dependencies)-D8B9B9?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 
+## 🔗 [🌍 Travel Blog – Discovering the Algarve](https://github.com/genesisvaca/travel-blog-algarve-spanish)
+
+A lightweight travel blog inspired by the Algarve’s coastline, built with simple HTML, CSS and vanilla JavaScript.  
+The design follows a soft pastel palette, rounded layouts and small shadow touches to create a calm, friendly reading experience.
+  
+![UI Design](https://img.shields.io/badge/UI_Design-8BA7FF?style=for-the-badge&logo=figma&logoColor=ffffff)
+![HTML/CSS/JS](https://img.shields.io/badge/Frontend_HTML·CSS·JS-A6D8FF?style=for-the-badge&logo=html5&logoColor=ffffff)
+![Pastel Branding](https://img.shields.io/badge/Pastel_Gradient_Theme-F6A4D8?style=for-the-badge&logo=color&logoColor=ffffff)
+![Image Gallery](https://img.shields.io/badge/Image_Gallery-D69EDB?style=for-the-badge&logo=googlephotos&logoColor=ffffff)
+![Fully in Spanish](https://img.shields.io/badge/Spanish_Content-8BA7FF?style=for-the-badge&logo=googletranslate&logoColor=ffffff)
 
 ## 🔗 [📱 QR Code Generator – Python](https://github.com/genesisvaca/QR-Code-Generator)
 
